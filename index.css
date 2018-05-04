@@ -1,5 +1,5 @@
 .jumbotron {
-    /* width: 70%; */
+    width: 70%;
     height: 150px;
     margin-left: auto;
     margin-right: auto;
@@ -16,11 +16,11 @@
 
 
 
-form {
+/* form {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
-}
+} */
 
 .clear, .search{
     padding: 5px;
@@ -33,4 +33,10 @@ form {
 
 .trash, .magnify {
     margin-right: 4px;
+}
+
+.card {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
 }
