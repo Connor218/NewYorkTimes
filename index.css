@@ -14,12 +14,29 @@
     padding-bottom: 20px;
 }
 
-form {
+
+
+/* form {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+.clear, .search{
+    padding: 5px;
+    background-color: transparent;
+}
+
+.labels {
+    margin-bottom: 7px;
+}
+
+.trash, .magnify {
+    margin-right: 4px;
+}
+
+.card {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
-}
-
-.clear {
-    padding: 5px
 }
