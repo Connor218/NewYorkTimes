@@ -6,11 +6,16 @@
     text-align: center;
     margin-top: 15px;
     padding-top: 40px;
-
+    color: white;
 }
-
 
 .display-4 {
     font-size: 50px;
     padding-bottom: 20px;
+}
+
+form {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
 }
